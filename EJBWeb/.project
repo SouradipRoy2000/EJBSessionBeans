@@ -3,6 +3,7 @@
 	<name>EJBWeb</name>
 	<comment></comment>
 	<projects>
+		<project>EJBBeanClient</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
