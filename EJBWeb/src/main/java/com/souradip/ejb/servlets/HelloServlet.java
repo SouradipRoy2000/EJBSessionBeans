@@ -30,7 +30,7 @@ public class HelloServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Served at: ").append(request.getContextPath());
+//		response.getWriter().append("Served at: ").append(request.getContextPath());
 		try {
 			//1. InitialContext object for JNDI is created for performing lookup operation.  
 			InitialContext context=new InitialContext();
