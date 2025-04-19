@@ -3,6 +3,9 @@
 	<name>EJBear</name>
 	<comment></comment>
 	<projects>
+		<project>EJBBean</project>
+		<project>EJBBeanClient</project>
+		<project>EJBWeb</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
